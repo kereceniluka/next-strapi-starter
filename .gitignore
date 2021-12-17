@@ -83,6 +83,9 @@ nbproject
 public/uploads/*
 !public/uploads/.gitkeep
 .vscode
+.next
+.vercel
+out
 dist
 dist-ssr
 
@@ -115,3 +118,9 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+############################
+# TypeScript
+############################
+
+*.tsbuildinfo
